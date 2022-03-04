@@ -18,7 +18,7 @@ Table of Contents
     3.1 Sales history (monthly)
     3.2 Most profitable month
     3.3 Sales activities by hour 
-    3.5 Correalation Matrix
+    3.5 Corralation Matrix
     
     TOP 5 
     
@@ -28,6 +28,6 @@ Table of Contents
 
     E-shop Sales Prediction 
 
-    4.1 
+    4.1 Predicting sales revenue by applying TF
     
 
