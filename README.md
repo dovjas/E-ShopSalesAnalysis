@@ -1,3 +1,5 @@
+Python 3.8.9
+
 # e-shop_analysis
 
 Table of Contents
