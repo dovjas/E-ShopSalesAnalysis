@@ -18,7 +18,7 @@ Table of Contents
     3.1 Sales history (monthly)
     3.2 Most profitable month
     3.3 Sales activities by hour 
-    3.5 Corralation Matrix
+    3.5 Correlation Matrix
     
     TOP 5 
     
