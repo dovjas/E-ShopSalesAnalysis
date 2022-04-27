@@ -1,6 +1,4 @@
-Python 3.8.9
-
-# E-shop sales data analysis
+<h1> E-shop sales data analysis </h1>
 
 Table of Contents
 
@@ -30,6 +28,6 @@ Table of Contents
 
     E-shop Sales Prediction 
 
-    4.1 Predicting sales revenue by applying TF
+    4.1 Predicting sales revenue by applying TensorFlow
     
 
