@@ -1,4 +1,4 @@
-<h1> E-shop sales data analysis and sales prediction with TensorFlow and Keras </h1>
+<h1> E-shop sales data analysis and prediction with TensorFlow and Keras </h1>
 
 Table of Contents
 
