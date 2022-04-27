@@ -1,4 +1,4 @@
-<h1> E-shop sales data analysis </h1>
+<h1> E-shop sales data analysis and sales prediction </h1>
 
 Table of Contents
 
