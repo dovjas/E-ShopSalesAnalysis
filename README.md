@@ -1,6 +1,6 @@
 Python 3.8.9
 
-# e-shop_analysis
+# E-shop sales data analysis
 
 Table of Contents
 
